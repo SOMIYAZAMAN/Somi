@@ -6,7 +6,8 @@ public class Git {
 System.out.println("lets play with GIT");
 System.out.println("2ndplay");
 System.out.println("play_play");
-		 System.out.println("2ndplay");
+		 System.out.println("3rdplay");
+		 System.out.println("4play");
 	}
 
 }
